@@ -66,14 +66,8 @@ body {
   display:none;
 }
 
-
-
-
-.row.view.view-apartments.view-id-apartments.view-display-id-attachment_1.view-dom-id-c156f6bb93c43625f8a51ecafa9dcf7bimg {
-    max-width: 100%;
-    height: auto;
-    width: auto\9; /* ie8 */
-}
+.contextual-links-wrapper.contextual-links-procesed h2 {
+    display: none;}
 
 .block-system-main.panel-col-last.panel-panel{
   width: auto;
