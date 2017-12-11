@@ -5,14 +5,22 @@
 /*Front page design*/
 #panels-ipe-paneid-33{
   padding-left:10%;
-  padding-right: 10%;}
+  padding-right: 10%;
+  padding-bottom: 10%;}
 
-body{
-  background: url(grey.png) no-repeat center center
+/*.views-bootstrap-grid-1{
+  padding-left:10%;
+  padding-right: 10%;
+  padding-bottom: 10%;}*/
+
+body.html.front{
+  background: url(grey.png) no-repeat center top
   fixed;
   background-size: contain;
   /*height:100%;*/
 }
+
+/*.block-social-login-widget-social-login-widget.block- h2{font-size: 15;}*/
 
 /*Menu bar is changing style */
 
@@ -83,7 +91,7 @@ body{
 /*make map fit half the screen*/
 .container{width:100%}
 .col-sm-12{width:100%  }
-#gmap-auto2map-gmap0.gmap-control.gmap-gmap.gmap.gmap-map.gmap-auto2map-gmap.gmap-processed {width:100% !important;}
+#gmap-auto2map-gmap0.gmap-control.gmap-gmap.gmap.gmap-map.gmap-auto2map-gmap.gmap-processed {width:100% !important; height: 700px !important;}
 
 
 
